@@ -1,0 +1,203 @@
+@media only screen and (max-width: 993px) {
+    .sm-screen {
+        display: block !important;
+    }
+
+    .lg-screen {
+        display: none !important;
+    }
+
+    body {
+        font-size: .85rem !important;
+    }
+
+    .header_title {
+        margin-bottom: -80px !important;
+        min-height: 220px !important;
+    }
+
+    div#root {
+        overflow: hidden;
+        padding-top: 60px !important;
+    }
+
+    .tablist a.active {
+        font-weight: bold;
+        color: #000;
+    }
+
+    .desknav {
+        display: none !important;
+    }
+
+    body .mobilenav {
+        display: block !important;
+    }
+
+    .working_process .col {
+        border-right: 1px solid #ddd;
+        padding: 15px 20px;
+        min-width: 50%;
+    }
+
+    a.navbar-brand>img {
+        height: 34px;
+    }
+
+    .header_title h1,
+    h1.heavyText {
+        font-size: 30px !important;
+    }
+
+    .main-slider {
+        padding: 2rem 0rem !important;
+    }
+
+    .working_process .col:nth-child(1),
+    .working_process .col:nth-child(2) {
+        border-bottom: 1px solid #ddd;
+    }
+
+    .calculator {
+        flex-wrap: wrap;
+        border-radius: 10px !important;
+        padding: 20px !important;
+    }
+
+    .calculator>div {
+        padding: 5px 0px;
+        border: 1px solid #ddd !important;
+        border-radius: 6px;
+        margin-bottom: 13px;
+        min-width: 100%;
+    }
+
+    .calculator>div:last-child {
+        border-width: 0px !important;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .section_heading {
+        margin-bottom: 20px;
+    }
+
+    section {
+        padding: 30px 0px !important;
+    }
+
+    .secHeading {
+        margin-top: 20px;
+    }
+
+    .row>* {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+
+    }
+
+    .white_box {
+        padding: 10px !important;
+    }
+
+    .header_title.header_title_sp {
+        padding-top: 40px;
+    }
+
+    .header_title.header_title_sp h1 {
+        font-size: 16px !important;
+    }
+
+    .header_title.header_title_sp h1 img {
+        height: 16px;
+    }
+
+    .profile_pic {
+        margin-top: -60px;
+        border: 7px solid #fff;
+    }
+
+    .working_process .col {
+        border-right: 0px solid #ddd;
+        border-left: 0px solid !important;
+        border-bottom: 1px solid #ddd;
+        padding: 15px 20px;
+        min-width: 100%;
+    }
+
+    .working_process h5 {
+        font-size: 16px;
+    }
+
+    .profiletab li.nav-item {
+        flex-grow: 1;
+    }
+
+    .profiletab a.nav-link {
+        padding: 10px 0px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all .3s;
+    }
+
+    .profiletab.tablist a.active {
+        background: #0a4bff;
+        background: -moz-linear-gradient(left, #0a4bff 0%, #7d46ff 100%);
+        background: -webkit-linear-gradient(left, #0a4bff 0%, #7d46ff 100%);
+        background: linear-gradient(to right, #0a4bff 0%, #7d46ff 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0a4bff', endColorstr='#7d46ff', GradientType=1);
+    }
+
+    .profiletab.tablist a.active img {
+        filter: invert(1);
+    }
+
+    .profiletab.tablist .tablist a {
+        font-weight: bold;
+        color: #000;
+
+    }
+
+    .profiletab {
+        padding: 0px !important;
+        justify-content: space-evenly;
+        width: calc(100% - 3px);
+        margin-left: 1px;
+    }
+
+    span.showondesk {
+        display: none !important;
+    }
+
+    .showonmob {
+        display: block !important;
+    }
+
+    .profilesec>div {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .container-fluid {
+        width: calc(100% - 10px) !important;
+    }
+
+    body {
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .working_process .icon_img>img {
+        width: 30px;
+    }
+
+    .places {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .places .path {
+        margin: 10px 0px;
+    }
+}

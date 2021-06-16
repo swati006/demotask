@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54.844" height="72" viewBox="0 0 54.844 72">
+  <g id="insurance" transform="translate(-61 0)">
+    <g id="Group_27" data-name="Group 27" transform="translate(61 0)">
+      <g id="Group_26" data-name="Group 26" transform="translate(0)">
+        <path id="Path_98" data-name="Path 98" d="M113.734,11.478c-11.676,0-23.776-10.823-23.9-10.931A2.109,2.109,0,0,0,87,.547c-.121.109-12.189,10.931-23.9,10.931A2.109,2.109,0,0,0,61,13.588V38.849c0,20.464,15.221,28.642,26.669,33.012a2.11,2.11,0,0,0,1.5,0c16.053-6.128,26.669-15.688,26.669-33.012V13.588A2.109,2.109,0,0,0,113.734,11.478Z" transform="translate(-61 0)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_29" data-name="Group 29" transform="translate(73.656 21.235)">
+      <g id="Group_28" data-name="Group 28" transform="translate(0)">
+        <path id="Path_99" data-name="Path 99" d="M165.766,151a14.766,14.766,0,1,0,14.766,14.766A14.782,14.782,0,0,0,165.766,151Zm5.71,14.148-6.328,6.328a2.109,2.109,0,0,1-2.983,0l-2.109-2.109a2.109,2.109,0,0,1,2.983-2.983l.618.618,4.837-4.836a2.109,2.109,0,1,1,2.983,2.983Z" transform="translate(-151 -151)" fill="#00a2ff"/>
+      </g>
+    </g>
+  </g>
+</svg>

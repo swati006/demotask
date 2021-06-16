@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="73" viewBox="0 0 41 73">
+  <g id="smartphone" transform="translate(-9 0)">
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="41" height="73" rx="9" transform="translate(9 0)" fill="#fff"/>
+    <line id="Line_2" data-name="Line 2" x1="30.552" transform="translate(14.5 23.5)" fill="none" stroke="#00a2ff" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_6" data-name="Line 6" x1="3" transform="translate(28.276 6.5)" fill="none" stroke="#00a2ff" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_4" data-name="Line 4" x1="30.552" transform="translate(14.5 35.5)" fill="none" stroke="#00a2ff" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_3" data-name="Line 3" x1="30.552" transform="translate(14.5 29.5)" fill="none" stroke="#00a2ff" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_5" data-name="Line 5" x1="22" transform="translate(14.5 41.5)" fill="none" stroke="#00a2ff" stroke-linecap="round" stroke-width="3"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="4.5" cy="4.5" r="4.5" transform="translate(25 59)" fill="#00a2ff"/>
+  </g>
+</svg>
